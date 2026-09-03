@@ -12,11 +12,13 @@ public class Main1 {
 
             int sum = number1 + number2;
             int minus = number1 - number2;
+            int times = number1 * number2;
 
             System.out.println("number 1 is " + number1);
             System.out.println("number 2 is " + number2);
             System.out.println("Sum: " + sum);
             System.out.println("subtraction: " + minus);
+            System.out.println("multiplication: " + times);
 
         }
     }
